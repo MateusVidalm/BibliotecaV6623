@@ -845,19 +845,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\matep\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matep\\Desktop\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Biblioteca\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "C:\\Users\\matep\\Desktop\\Biblioteca\\Biblioteca.csproj",
-      "packagesPath": "C:\\Users\\matep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matep\\Desktop\\Biblioteca\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\Biblioteca\\Biblioteca.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Biblioteca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\matep\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
