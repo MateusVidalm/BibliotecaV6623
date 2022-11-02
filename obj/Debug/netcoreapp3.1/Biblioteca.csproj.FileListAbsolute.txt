@@ -51,5 +51,8 @@ C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Bibliot
 C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
-C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\CadastrarUser\Cadastro.cshtml.g.cs
-C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\CadastrarUser\Listagem.cshtml.g.cs
+C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListarUsuarios.cshtml.g.cs
+C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
+C:\Users\user\Desktop\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
